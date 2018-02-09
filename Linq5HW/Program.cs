@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Linq5HW
 {
+
     class Program
     {
         public static Model1 db = new Model1();
